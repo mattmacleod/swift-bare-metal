@@ -1,0 +1,5 @@
+build
+iso
+*.o
+*.a
+*.ll
